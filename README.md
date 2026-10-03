@@ -112,7 +112,7 @@ I am actively strengthening my problem-solving skills through **LeetCode**, focu
 🔗 **[View my LeetCode Profile →](https://leetcode.com/u/athulkrishna761/)**
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -130,7 +130,7 @@ I am actively strengthening my problem-solving skills through **LeetCode**, focu
 </div>
 
 ---
-
+-->
 ## 🎯 Current Focus
 
 - 🔨 Building practical and deployable software projects
