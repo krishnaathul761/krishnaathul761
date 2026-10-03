@@ -22,32 +22,33 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)-->
 
 ### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI/ML & Cloud
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!--![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)-->
 
 ---
 
 ## 🌟 Featured Projects
 
-### 💝 [Interactive Valentine's Proposal Website](https://github.com/krishnaathul761/valentine-proposal)
+<!--
+### 💝 [Interactive Valentine's Proposal Website] (https://github.com/krishnaathul761/valentine-proposal)
 > Romantic web experience with playful UI interactions and animations
 
 **Tech Stack:** React • TypeScript • TailwindCSS • Vercel
@@ -58,9 +59,10 @@
 - 🚀 Deployed on Vercel with responsive mobile-first design
 
 [🔗 Live Demo](https://love-letter-io.lovable.app)
+-->
 
 ---
-
+<!--
 ### 🎯 AI-Powered Job Application Tracker *(In Progress)*
 > Smart job hunting platform with AI resume optimization
 
@@ -84,7 +86,7 @@
 - 🤖 AI code completion and bug detection
 - ⚡ WebSocket-based synchronization
 - 🎨 Monaco Editor integration
-
+-->
 ---
 
 ## 📊 GitHub Stats
@@ -116,7 +118,7 @@
 **Software Development Engineering with Applied AI** | Feb - July 2026  
 Masai School in collaboration with IIT Patna (Vishlesan i-Hub)
 - Intensive training in Full-Stack Development, AI/ML, Cloud Deployment
-- Tech Stack: Python, FastAPI, React, PostgreSQL, Docker, AWS
+- Tech Stack: Python, FastAPI, PostgreSQL
 - Building production-ready applications with modern practices
 
 **Bachelor of Technology in Engineering** | 2024  
