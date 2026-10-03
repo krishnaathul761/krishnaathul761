@@ -1,151 +1,208 @@
 # Hi there, I'm Athul Krishna A! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;AI+Enthusiast;Building+Real+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+JavaScript;Building+Practical+Software+Solutions" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer specializing in **Python, FastAPI, React, and AI/ML**
-- 🎓 Currently mastering **Software Development Engineering with Applied AI** at **Masai School x IIT Patna** (Feb - July 2026)
-- 🤖 Building scalable backend systems, RESTful APIs, and AI-integrated applications
-- 🔭 Creating production-ready projects that solve real-world challenges
-- 📚 Continuous learner | Daily DSA practice | Building in public
-- 🌱 Deep diving into **System Design, Cloud Architecture, and LLM Integration**
-- 🎓 Engineering Graduate from **Kerala Technological University** (2024)
-- 📫 Let's connect: **krishnaathul761@gmail.com**
+- 💻 Software Developer focused on **Python, FastAPI, JavaScript, SQL, and full-stack application development**
+- 🎓 Completed **Software Development Engineering with Applied AI** at **Masai School in collaboration with IIT Patna (Vishlesan i-Hub)** in August 2026
+- 🚀 Built and deployed a full-stack **on-call support knowledge-base application** as my capstone project
+- 🤖 Interested in **AI-integrated applications, LLM integration, semantic search, and backend systems**
+- 🧠 Actively strengthening **Data Structures & Algorithms** and problem-solving skills
+- 🔧 Hands-on experience with **REST APIs, databases, authentication, validation, API documentation, and deployment**
+- 🌱 Currently deepening my knowledge of **backend architecture, system design, databases, and scalable application development**
+- 🎓 B.Tech Engineering Graduate — **Kerala Technological University, 2024**
+- 📫 Reach me at **krishnaathul761@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)-->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Backend & APIs
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)-->
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### AI/ML & Cloud
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-<!--![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)-->
+### AI / Applied AI
 
----
-
-## 🌟 Featured Projects
-
-<!--
-### 💝 [Interactive Valentine's Proposal Website] (https://github.com/krishnaathul761/valentine-proposal)
-> Romantic web experience with playful UI interactions and animations
-
-**Tech Stack:** React • TypeScript • TailwindCSS • Vercel
-
-- 🎨 Built interactive React components with smooth animations
-- 🎯 Implemented creative button interactions and state management
-- 💖 Heart-shaped photo collage with floating animation effects
-- 🚀 Deployed on Vercel with responsive mobile-first design
-
-[🔗 Live Demo](https://love-letter-io.lovable.app)
--->
-
----
-<!--
-### 🎯 AI-Powered Job Application Tracker *(In Progress)*
-> Smart job hunting platform with AI resume optimization
-
-**Tech Stack:** Python • FastAPI • React • PostgreSQL • OpenAI API • Docker
-
-- 🤖 AI-powered resume analysis and ATS optimization
-- 📊 Application tracking with analytics dashboard
-- 🔄 Interview preparation assistant
-- ☁️ Deployed with Docker on AWS
-
-*Coming Soon: Live Demo*
+![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-6A5ACD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge)
 
 ---
 
-### 💻 Real-Time Code Collaboration Platform *(Planned)*
-> Collaborative coding environment with AI assistance
+## 🌟 Featured Project
 
-**Tech Stack:** Python • FastAPI • WebSockets • React • Redis
+### 🍴 [ZOMATO-NOTES — On-Call Knowledge Base](https://github.com/krishnaathul761/ZOMATO-NOTES)
 
-- 🔄 Real-time collaborative editing
-- 🤖 AI code completion and bug detection
-- ⚡ WebSocket-based synchronization
-- 🎨 Monaco Editor integration
--->
+> A capstone full-stack application built around an on-call support engineering knowledge-base use case.
+
+ZOMATO-NOTES allows engineers to capture, organize, search, and retrieve incident-related notes while providing AI-assisted features for faster knowledge retrieval.
+
+**Key Features & Contributions**
+
+- 🏗️ Designed the overall application structure, feature flow, and major implementation decisions
+- ⚡ Built REST APIs using **FastAPI**
+- 🗄️ Implemented database persistence using **PostgreSQL / Supabase**
+- 🔗 Used **SQLAlchemy** for database interaction and ORM-based data management
+- ✅ Implemented request and response validation using **Pydantic**
+- 🔐 Implemented authentication and protected application operations
+- 🔎 Built note search, retrieval, reporting, and ranking functionality
+- 🧮 Implemented algorithm-based search and ranking logic
+- 🧠 Added **semantic search** using sentence-transformer embeddings and cosine similarity
+- 🤖 Integrated optional **LLM-based AI assistance**
+- ⚙️ Implemented background processing for search indexing
+- 📖 Added interactive API documentation using **Swagger / OpenAPI**
+- 🌐 Deployed the application for live testing
+
+**Tech Stack:**  
+`Python` `FastAPI` `JavaScript` `PostgreSQL` `Supabase` `SQLAlchemy` `Pydantic` `REST APIs` `Sentence Transformers` `LLM Integration`
+
+🔗 **[View Source Code](https://github.com/krishnaathul761/ZOMATO-NOTES)**  
+🌐 **[Live Application](https://krishnaathul761.github.io/ZOMATO-NOTES/)**  
+📚 **[API Documentation](https://zomato-notes.onrender.com/docs)**
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I am actively strengthening my problem-solving skills through **LeetCode**, focusing on understanding algorithmic patterns, time complexity, and implementation.
+
+### LeetCode Progress
+
+| Metric | Progress |
+| :--- | ---: |
+| Problems Solved | **25** |
+| Easy | **11** |
+| Medium | **14** |
+| Hard | **0** |
+
+### Current DSA Focus
+
+`Arrays` `Strings` `Two Pointers` `Sliding Window` `Hash Tables` `Greedy` `Dynamic Programming`
+
+🔗 **[View my LeetCode Profile →](https://leetcode.com/u/athulkrishna761/)**
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaathul761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaathul761&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaathul761&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
 </div>
 
 <div align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaathul761&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-## 🏆 Current Focus (2026)
+## 🎯 Current Focus
 
-- 🔨 Building 3-4 production-ready full-stack projects
-- 📚 Mastering Data Structures & Algorithms (LeetCode)
-- 💡 Deep diving into System Design and Scalability
-- 🤖 Exploring LLM integration and AI applications
-- 🌐 Contributing to open-source projects
-- 📝 Learning and building in public
+- 🔨 Building practical and deployable software projects
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🐍 Deepening **Python and FastAPI backend development**
+- 🗄️ Improving **SQL and relational database design**
+- 🌐 Building and consuming **REST APIs**
+- 🤖 Exploring **LLM integration, embeddings, and AI-assisted applications**
+- 🏗️ Learning **system design and scalable backend architecture**
+- 🧪 Improving software development practices through hands-on projects
 
 ---
 
 ## 🎓 Education & Training
 
-**Software Development Engineering with Applied AI** | Feb - July 2026  
-Masai School in collaboration with IIT Patna (Vishlesan i-Hub)
-- Intensive training in Full-Stack Development, AI/ML, Cloud Deployment
-- Tech Stack: Python, FastAPI, PostgreSQL
-- Building production-ready applications with modern practices
+### Software Development Engineering with Applied AI
 
-**Bachelor of Technology in Engineering** | 2024  
-Kerala Technological University (KTU)
-- Strong foundation in analytical thinking and problem-solving
-- Engineering principles and systems-level understanding
+**Masai School × IIT Patna (Vishlesan i-Hub)**  
+**Completed — August 2026**
+
+Focused training in:
+
+- Full-Stack Software Development
+- Backend Development
+- REST API Development
+- Database Integration
+- Data Structures & Algorithms
+- Applied AI & LLM Integration
+- Cloud Deployment
+- Modern Software Development Practices
 
 ---
 
-## 🤝 Let's Connect!
+### Bachelor of Technology — Engineering
+
+**Kerala Technological University**  
+**2024**
+
+Engineering background with a foundation in analytical thinking, problem-solving, and systems-oriented engineering principles.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athulkrishnaatk)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaathul761@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/[your-username])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[your-portfolio].com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/athulkrishna761/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnaathul761)
 
 </div>
 
 ---
 
+## 💼 Open to Opportunities
+
+I'm currently looking for **full-time entry-level opportunities** in:
+
+**Software Development • Backend Development • Full-Stack Development**
+
+I'm also open to relevant internship opportunities where I can contribute to a development team while continuing to grow as a software engineer.
+
+---
+
 <div align="center">
-  
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishnaathul761&color=blueviolet&style=for-the-badge)
 
 </div>
-```
