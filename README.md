@@ -110,7 +110,7 @@ I am actively sharpening my algorithmic problem-solving skills on **LeetCode**, 
 
 | Metric | Details |
 | :--- | :--- |
-| **Problems Solved** | **25** (11 Easy, 14 Medium, 0 Hard) |
+| **Problems Solved** | **35** (13 Easy, 22 Medium, 0 Hard) |
 | **Core Algorithmic Focus** | Arrays, Two Pointers, Sliding Window, Binary Search, Hash Maps, Greedy, Dynamic Programming |
 | **Profile Link** | **[leetcode.com/u/athulkrishna761/](https://leetcode.com/u/athulkrishna761/)** |
 
