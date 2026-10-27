@@ -1,18 +1,18 @@
-# Hi there, I'm Athul Krishna A! 👋
+﻿# Hi there, I'm Athul Krishna A! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Development+Engineer;Backend+%26+Applied+AI+Developer;Python+%7C+FastAPI+%7C+JavaScript;Chrome+Manifest+V3+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 👤 About Me
 
 - 💻 Software Development Engineer focused on **Python, FastAPI, JavaScript (ES6+), Relational Databases (PostgreSQL/SQLAlchemy), and Applied AI**
-- 🎓 Completed **Software Development Engineering with Applied AI** at **Masai School in collaboration with IIT Patna (Vishlesan i-Hub)** (August 2026)
+- 🎓 Completed **Software Development Engineering with Applied AI** at **Masai School × IIT Patna (Vishlesan i-Hub)** (August 2026)
 - 🎓 B.Tech Engineering Graduate — **Kerala Technological University, 2024**
-- 🛠️ Creator of **ZOMATO-NOTES** (AI-augmented internal engineering knowledge base with 1.0 MRR vector search) and **AI-Browser** (Multimodal Chrome Manifest V3 extension copilot)
-- 🧠 Actively solving problems on **LeetCode** with a focus on algorithmic complexity, data structures, and optimization
-- 🔧 Experienced in **REST API design, database connection pooling, cryptographic authentication (bcrypt), automated testing (unittest/CI), and cloud deployment**
-- 📫 Reach me at **[krishnaathul761@gmail.com](mailto:krishnaathul761@gmail.com)** | **[LinkedIn](https://linkedin.com/in/athulkrishnaatk)**
+- 🚀 Creator of **[AI-Browser (Sahayak)](https://github.com/krishnaathul761/AI-Browser)** (Multimodal Chrome Manifest V3 copilot with human-in-the-loop autonomous agent loop) and **[ZOMATO-NOTES](https://github.com/krishnaathul761/ZOMATO-NOTES)** (AI-augmented incident knowledge base with 1.0 MRR vector search)
+- 📊 Actively solving problems on **LeetCode** with a focus on algorithmic complexity, data structures, and optimization
+- 🛠️ Experienced in **REST API design, database connection pooling, cryptographic authentication (bcrypt), automated testing (unittest/CI), and cloud deployment**
+- 📬 Reach me at **[krishnaathul761@gmail.com](mailto:krishnaathul761@gmail.com)** | **[LinkedIn](https://linkedin.com/in/athulkrishnaatk)**
 
 ---
 
@@ -55,9 +55,9 @@
 
 ---
 
-## 🌟 Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
-### 1. 🍴 [ZOMATO-NOTES — Incident Knowledge Base & Semantic Retrieval Platform](https://github.com/krishnaathul761/ZOMATO-NOTES)
+### 1. 📌 [ZOMATO-NOTES — Incident Knowledge Base & Semantic Retrieval Platform](https://github.com/krishnaathul761/ZOMATO-NOTES)
 
 [![CI](https://github.com/krishnaathul761/ZOMATO-NOTES/actions/workflows/ci.yml/badge.svg)](https://github.com/krishnaathul761/ZOMATO-NOTES/actions/workflows/ci.yml)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.141.1-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -75,30 +75,35 @@
 - **Automated Testing & CI/CD Pipeline:** Built a **32-test automated regression suite** (100% pass rate in <1s) running on **GitHub Actions CI** on every push and pull request.
 
 **Tech Stack:** `Python` `FastAPI` `PostgreSQL (Supabase)` `SQLite` `SQLAlchemy ORM` `Pydantic` `bcrypt` `Sentence-Transformers` `Groq LLaMA-3.1` `GitHub Actions CI`  
-🔗 **[View Source Code](https://github.com/krishnaathul761/ZOMATO-NOTES)** | 🌐 **[Live Application](https://krishnaathul761.github.io/ZOMATO-NOTES/)** | 📚 **[Interactive API Docs (Swagger)](https://zomato-notes.onrender.com/docs)**
+🔗 **[View Source Code](https://github.com/krishnaathul761/ZOMATO-NOTES)** | 🌐 **[Live Application](https://krishnaathul761.github.io/ZOMATO-NOTES/)** | 📖 **[Interactive API Docs (Swagger)](https://zomato-notes.onrender.com/docs)**
 
 ---
 
-### 2. 🧭 [AI-Browser (Sahayak) — Multimodal AI Copilot (Chrome MV3 Extension)](https://github.com/krishnaathul761/AI-Browser)
+### 2. 🌐 [AI-Browser (Sahayak) — Multimodal AI Copilot & Autonomous Agent Loop (Chrome MV3)](https://github.com/krishnaathul761/AI-Browser)
 
 [![Chrome MV3](https://img.shields.io/badge/Chrome-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-Zero--Build-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Gemini](https://img.shields.io/badge/Google-Gemini%201.5%20Flash-8E75C2?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Gemini](https://img.shields.io/badge/Google-Gemini%202.0%20Flash-8E75C2?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-F05032?style=flat-square)](https://groq.com)
+[![Status: Phase 3 Complete](https://img.shields.io/badge/Status-Phase%203%20Complete%20(The%20Hands)-brightgreen?style=flat-square)](https://github.com/krishnaathul761/AI-Browser)
 
-> A client-side multimodal AI assistant built on Chrome Manifest V3 operating directly within the Chrome Side Panel for page reading, video analysis, in-page grounded chat, and visual question answering.
+> A client-side multimodal AI copilot and browser automation agent built on Chrome Manifest V3 operating directly within the Chrome Side Panel. Reads articles and YouTube videos, chats with grounded page context, analyzes cropped screenshots, and executes step-by-step browser errands under strict human-in-the-loop approval.
 
-**Key Engineering Highlights & Verified Evidence:**
-- **Multi-Runtime Isolation Architecture:** Architected across 4 distinct Chromium execution contexts (Isolated Content Script, Ephemeral Background Service Worker, Sidepanel UI, and Options Page) communicating via asynchronous message passing and `chrome.storage.local`.
-- **Dual-Engine LLM Fallback Routing:** Implemented intelligent model router prioritizing **Google Gemini 1.5 Flash** with automated fallback to **Groq LLaMA 3.3 70B Versatile**, gracefully mitigating API rate limits, timeouts, and network drops.
-- **DOM Cloning & Content Extraction:** Sanitizes host web pages by cloning document nodes (`document.cloneNode(true)`) and running Mozilla Readability to extract structured article markdown without mutating live host page state.
-- **Multimodal Video Intelligence & In-Tab Seeking:** Analyzes public YouTube videos via watch URL, extracting chapter timestamps with a statistical cutoff filter ($\le 1.2 	imes 	ext{secondToLast} + 30	ext{s}$) to prune hallucinations, enabling direct in-tab video seeking (`&t=SECONDS`).
-- **Interactive HTML5 Canvas Drag-to-Crop Engine:** Built a custom canvas screenshot engine that maps 320px responsive sidepanel coordinates to full-resolution device bitmaps with a 4× zoom loupe for Visual Question Answering (VQA).
-- **Grounded Chat with State Invalidation:** Maintains in-page conversational history bounded by a 50-item LRU cache, with automatic tab navigation listeners to reset history upon page changes.
-- **Zero-Build Architecture:** Engineered 3,450+ lines of modular, clean ES6+ JavaScript with zero node_modules or runtime bundlers.
+**Key Engineering Highlights & Verified Evidence (Phases 1, 2, & 3 Completed):**
+- **Four-Runtime Isolated MV3 Architecture:** Architected across 4 distinct Chromium execution contexts (Isolated Content Script with Shadow DOM, Ephemeral Background Service Worker, Sidepanel UI, and Options Page) communicating via asynchronous messaging envelopes and `chrome.storage.local`.
+- **Human-in-the-Loop Errand Loop (Phase 3):** Engineered an approval-gated agent state machine (`running` → `awaiting_approval` → `executing`). The model scans the active page, plans exactly **ONE** atomic action (`click`, `type`, `select`, `scroll`, `done`), and pauses. **Zero DOM mutations occur without explicit user "Approve"**. Supports Approve, Skip, Stop, and Step limit controls.
+- **Isolated Shadow-DOM Numbered Badges & DOM Scanner:** Built a resilient DOM scanner that identifies interactive nodes, filters out non-visible elements, and renders 1-based badge overlays inside a custom Shadow DOM host (`#sahayak-overlay-host`) on `document.documentElement`—completely immune to host CSS distortion.
+- **"Find It For Me" Zero-Mutation Identification:** Allows users to query elements in natural language (e.g. *"login button"*, *"filter under $100"*). Leverages Gemini Flash-Lite to select the target node, smoothly scrolls it into view, and pulses its border and badge with guaranteed zero DOM mutation.
+- **Dual-Engine LLM Fallback Routing:** Implemented intelligent model router prioritizing **Google Gemini 2.0 Flash / Flash-Lite** with automated transparent fallback to **Groq Cloud (LLaMA 3.3 70B Versatile)**, handling 429 rate limits, timeouts, and network drops gracefully. Capped prompt element lists to top 50 items to eliminate token bloat.
+- **Strict Schema Normalization & Defense-in-Depth Rails:** Built a robust JSON validator that strips markdown fences, normalizes model action aliases (`fill` → `type`, `press` → `click`), and enforces a strict `SAFETY_REFUSAL` barrier blocking automated typing on sensitive inputs (passwords, PINs, OTPs, CVVs) or execution on restricted financial/browser URLs.
+- **Service Worker Sleep Resilience & Persistent Action Log:** Automatically serializes active errand sessions to local storage, seamlessly restoring in-flight errand proposals if the Service Worker goes idle. Maintains a FIFO persistent action log capped at 200 items with export/clear controls.
+- **Multimodal Video Intelligence & In-Tab Seeking:** Analyzes public YouTube videos via watch URL, extracting chapter timestamps with statistical outlier filtering ($\le 1.2 \times \text{secondToLast} + 30\text{s}$) to prune hallucinations, enabling direct in-tab video seeking (`&t=SECONDS`) without opening duplicate tabs.
+- **Interactive HTML5 Canvas Drag-to-Crop Engine:** Built a custom canvas screenshot engine mapping 320px responsive sidepanel coordinates to full-resolution device bitmaps with a 4× zoom loupe for Visual Question Answering (VQA).
+- **Automated Acceptance Gate & Practice Sandboxes:** Shipped two full-featured practice pages (`pages/practice/internship-form.html`, `shop.html`) and an automated test suite (`acceptance-gate.html`) verifying all 8 Week 3 acceptance criteria with a 100% pass rate.
+- **Zero-Build Architecture:** Engineered 6,500+ lines of modular, clean ES6+ JavaScript with zero node_modules or runtime bundlers.
 
-**Tech Stack:** `JavaScript (ES6+)` `Chrome Manifest V3` `Service Workers` `HTML5 Canvas API` `Mozilla Readability` `Google Gemini API` `Groq SDK` `DOM APIs`  
-🔗 **[View Source Code](https://github.com/krishnaathul761/AI-Browser)** | 📑 **[Architecture Documentation](https://github.com/krishnaathul761/AI-Browser/tree/main/Docs)**
+**Tech Stack:** `JavaScript (ES6+)` `Chrome Manifest V3` `Shadow DOM` `Service Workers` `HTML5 Canvas API` `Mozilla Readability` `Google Gemini 2.0 Flash` `Groq LLaMA 3.3` `DOM Mutation APIs`  
+🔗 **[View Source Code](https://github.com/krishnaathul761/AI-Browser)** | 📖 **[Architecture Documentation](https://github.com/krishnaathul761/AI-Browser/tree/master/Docs)**
 
 ---
 
